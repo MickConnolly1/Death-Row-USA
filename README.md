@@ -5,7 +5,7 @@ The Data had Information with the Folowing Indexes :
 Date, Name, Age, Sex, Race, Crime, Victim Count, Victim Sex, Victim Race, County, State, Region, Method, Juvenile, Volunteer, Federal, Foreign National
 
 I Carried Out Differnt Types of Analysis such as:
- 1. GENDER COUND OF EACH KILLER
+ 1. GENDER COUNT OF EACH KILLER
  2. COMMON AGE OF CONVICTED KILLER
  3. Executions by Method and Gender
  4. Executions by Method, Gender, and State
